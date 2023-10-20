@@ -1,0 +1,148 @@
+{
+  "portfolioItems": [
+    {
+      "h": "TEAM PROJECT",
+      "title": "WEDDING FOR YOU",
+      "date": "2023. 09. 13 ~ 2023. 10. 13",
+      "contributors": "4명(기여도: 80%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/2team.png",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "GitHub",
+        "originLabel": "Figma",
+        "Notion": "https://www.notion.so/2-76dd6ecdd7854ee4af3dd332f315d401?pvs=4",
+        "GitHub": "https://github.com/yeibin02/2season-project-B.git",
+        "Origin": "https://www.figma.com/file/Sj2xoZITLgpQeu1RfrzUL9/Untitled?type=design&mode=design&t=oXbMnczfjqGCU4Kg-1"
+      }
+    },
+    {
+      "h": "TEAM PROJECT",
+      "title": "지확행:지구를 지키는 확실한 행동",
+      "date": "2023. 08. 14 ~ 2023. 09. 13",
+      "contributors": "3명(기여도: 80%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/OT131K1.png",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "GitHub",
+        "originLabel": "Figma",
+        "Notion": "https://www.notion.so/1-b50683e47d6c4d01a430c526ccf89160?pvs=4",
+        "GitHub": "https://github.com/yeibin02/first-project.git",
+        "Origin": "https://www.figma.com/file/sd1V9rgtOJ6EcVACLex5kV/%EC%A7%80%EA%B5%AC%EC%83%B5-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83?type=design&mode=design&t=oXbMnczfjqGCU4Kg-1"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "한살림 장보기",
+      "date": "2023. 08. 07 ~ 2023. 08. 11",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/hansalim.gif",
+      "link": {
+        "workLabel": "Work",
+        "githubLabel": "Github",
+        "originLabel": "Origin",
+        "Work": "https://hansalrim-clone.vercel.app/",
+        "Github": "https://github.com/yeibin02/Hansalrim-Clone.git",
+        "Origin": "https://shop.hansalim.or.kr/shopping/spMain.do"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "STX 건설",
+      "date": "2023. 06. 28 ~ 2023. 06. 29",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "Work",
+        "githubLabel": "Github",
+        "originLabel": "Origin",
+        "Work": "https://stx-clone-k7n6.vercel.app/",
+        "Github": "https://github.com/yeibin02/stx-clone.git",
+        "Origin": "http://www.stxconst.co.kr/"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "도시락통",
+      "date": "2023. 06. 01 ~ 2023. 06. 09",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/dosiraktong.gif",
+      "link": {
+        "workLabel": "Work",
+        "githubLabel": "Github",
+        "originLabel": "Origin",
+        "Work": "https://dosiraktong2-clone-r102azwbf-yeibin02.vercel.app",
+        "Github": "https://github.com/yeibin02/dosiraktong2-clone.git",
+        "Origin": "https://dosiraktong.com/Main/Index"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "현대그룹",
+      "date": "2023. 08. 01 ~ 2023. 08. 04",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/hyundai.gif",
+      "link": {
+        "workLabel": "Work",
+        "githubLabel": "Github",
+        "originLabel": "Origin",
+        "Work": "https://hyundai-clone-zeta.vercel.app/",
+        "Github": "https://github.com/yeibin02/Hyundai.git",
+        "Origin": "https://www.hyundaigroup.com/"
+      }
+    },
+    {
+      "h": "PERSONAL DESIGN",
+      "title": "샤넬 - 웹 디자인",
+      "date": "2023. 10. 14 ~ 2023. 10. 17",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "Ps, Ai, Figma",
+      "src": "images/chanel-main1.png",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "Figma",
+        "originLabel": "Origin",
+        "Notion": "https://www.notion.so/212ed3eff0fb46609ebe0ba51169389b?pvs=4",
+        "GitHub": "https://www.figma.com/file/bV0u7cwxccsgKZCWYiH0Pi/%EC%A0%95%EC%98%88%EB%B9%88-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8?type=design&node-id=0%3A1&mode=design&t=pdBgCaPwnb78dcpt-1",
+        "Origin": "https://www.chanel.com/kr/fragrance/?gclid=Cj0KCQjwhL6pBhDjARIsAGx8D5-J1ztuX0MYs97g-f7yNw4wwmvgWWIPDPIZmXnAOLqzTXtPw1v-TokaAhheEALw_wcB"
+      }
+    },
+    {
+      "h": "PERSONAL DESIGN",
+      "title": "앱 디자인",
+      "date": "2023. 06. 13 ~ 2023. 06. 16",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "Ps, Ai, Figma",
+      "src": "images/appdesign.png",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "Figma",
+        "originLabel": "PDF",
+        "Notion": "https://www.notion.so/e2b226c586d24b70966bd2a4ddaefdfc?pvs=4",
+        "GitHub": "https://www.figma.com/file/jv5xo2XxW7sXeYLdqMQJRn/%EC%A0%95%EC%98%88%EB%B9%88-%EC%95%B1-%EB%94%94%EC%9E%90%EC%9D%B81?type=design&node-id=0%3A1&mode=design&t=nTK1Zxu0eBUVO1Ak-1",
+        "Origin": "https://drive.google.com/file/d/1AkKou3AUVP0cwx04Qfjgai7lWyBP7233/view?usp=sharing"
+      }
+    },
+    {
+      "h": "PERSONAL DESIGN",
+      "title": "로고 디자인",
+      "date": "2023. 08. 09 ~ 2023. 08. 11",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "Ps, Ai, Figma",
+      "src": "images/bsdc.jpg",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "Figma",
+        "originLabel": "PDF",
+        "Notion": "https://www.notion.so/4d4798b59fcc44bd8986ebce7c9aed88?pvs=4",
+        "GitHub": "https://www.figma.com/file/YuIzSW7bn3jS2h6vPNZ8of/Untitled?type=design&node-id=0%3A1&mode=design&t=pdBgCaPwnb78dcpt-1",
+        "Origin": "https://drive.google.com/file/d/12Ed0Vyr0VTEcsq7R1vF5eR5_ZgRKhCda/view?usp=sharing"
+      }
+    }
+  ]
+}
